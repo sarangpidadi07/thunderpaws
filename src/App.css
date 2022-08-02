@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+/* Custom CSS */
+.background-color {
+  background-color: #282c34;
+}
